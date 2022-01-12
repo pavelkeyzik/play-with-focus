@@ -1,0 +1,16 @@
+{
+  "name": "play-with-focus",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "Pavel Keyzik",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.1.1"
+  }
+}
